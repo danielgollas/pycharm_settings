@@ -1,0 +1,139 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.10 (/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/pip-8.1.2-py2.7.egg" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/docker_compose-1.8.0-py2.7.egg" />
+            <root type="simple" url="jar:///Library/Python/2.7/site-packages/enum34-1.1.6-py2.7.egg!/" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/jsonschema-2.5.1-py2.7.egg" />
+            <root type="simple" url="jar:///Library/Python/2.7/site-packages/dockerpty-0.4.1-py2.7.egg!/" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/348993582" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.9 (ssh://dgollas@127.0.0.1:2222/home/dgollas/.pyenv/versions/miyagi/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.9" />
+      <homePath value="ssh://dgollas@127.0.0.1:2222/home/dgollas/.pyenv/versions/miyagi/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-352751025/30510873" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-352751025/-205970209" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-352751025/1050850540" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-352751025/-1239310865" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-352751025/816639037" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/-352751025" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional HOST="127.0.0.1" PORT="2222" ANONYMOUS="false" USERNAME="dgollas" PASSWORD="dfdedfd8dfdfdfc9dfc5df84dff9dfdedfd3dfc6dfcfdfd9dfcfdfcbdfdedf9bdf9a" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/home/dgollas/.pyenv/versions/miyagi/bin/python" HELPERS_PATH="/home/dgollas/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.9">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-352751025/30510873" remote-root="/home/dgollas/.pyenv/versions/miyagi/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-352751025/-205970209" remote-root="/home/dgollas/.pyenv/versions/2.7.9/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-352751025/1050850540" remote-root="/home/dgollas/.pyenv/versions/2.7.9/lib/python2.7/plat-linux2" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-352751025/-1239310865" remote-root="/home/dgollas/.pyenv/versions/2.7.9/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-352751025/816639037" remote-root="/home/dgollas/.pyenv/versions/miyagi/lib/python2.7/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.9 virtualenv at ~/.pyenv/versions/miyagi" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.9" />
+      <homePath value="$USER_HOME$/.pyenv/versions/miyagi/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/miyagi/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/miyagi/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.9/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.9/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.9/lib/python2.7/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.9/lib/python2.7/plat-mac" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.9/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/miyagi/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/-1367869909" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.11 Docker (styleseat_web:latest)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="docker://styleseat_web:latest/python" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="styleseat_web:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.11" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.9 virtualenv at ~/.pyenv/versions/ss" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.9" />
+      <homePath value="$USER_HOME$/.pyenv/versions/ss/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/ss/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/ss/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.9/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.9/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.9/lib/python2.7/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.9/lib/python2.7/plat-mac" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.9/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/ss/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/ss/lib/python2.7/site-packages/newrelic-2.68.0.50" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/620680209" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>

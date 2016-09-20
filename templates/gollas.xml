@@ -1,0 +1,31 @@
+<templateSet group="gollas">
+  <template name="modeladmin" value="@admin.register($END$$MODEL$)&#10;class $MODEL$Admin(admin.ModelAdmin):&#10;    #search_fields = []&#10;    # raw_id_fields = []&#10;    #list_filter = []&#10;    pass&#10;    " toReformat="false" toShortenFQNames="true">
+    <variable name="MODEL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="modelserializer" value="class $MODEL$Serializer(serializers.ModelSerializer):&#10;    class Meta:&#10;        model = $MODEL$$END$&#10;" toReformat="false" toShortenFQNames="true">
+    <variable name="MODEL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="getvar" value="$VARNAME$ = $SOURCE$.get(&quot;$VARNAME$&quot;,$DEFAULT$)" toReformat="false" toShortenFQNames="true">
+    <variable name="VARNAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="SOURCE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DEFAULT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="stripemirror" value="{&quot;field&quot;:&quot;$SOURCE$&quot;, &quot;transform&quot;: $XFORM$, &quot;fk_class&quot;: $FK_CLASS$, &quot;default&quot;: $DEF$}" toReformat="false" toShortenFQNames="true">
+    <variable name="SOURCE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="XFORM" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FK_CLASS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DEF" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
