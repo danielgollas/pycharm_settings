@@ -28,4 +28,10 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="attrtodict" value="result[&quot;$attr$&quot;]=self.$attr$$END$" toReformat="false" toShortenFQNames="true">
+    <variable name="attr" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
