@@ -2,8 +2,7 @@
   <component name="FindSettings">
     <option name="customScope" value="subs" />
     <option name="defaultScopeName" value="subs" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="subs" />
+    <option name="FILE_MASK" value="*.py" />
   </component>
 </application>
