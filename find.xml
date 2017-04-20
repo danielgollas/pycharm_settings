@@ -3,5 +3,6 @@
     <option name="customScope" value="subs" />
     <option name="defaultScopeName" value="subs" />
     <option name="SEARCH_SCOPE" value="subs" />
+    <option name="FILE_MASK" value="*.py" />
   </component>
 </application>
