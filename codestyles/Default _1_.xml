@@ -5,6 +5,9 @@
     <option name="IMPORT_SORT_MEMBERS" value="false" />
     <option name="IMPORT_MERGE_MEMBERS" value="FALSE" />
   </JSCodeStyleSettings>
+  <Python>
+    <option name="OPTIMIZE_IMPORTS_SORT_IMPORTS" value="false" />
+  </Python>
   <codeStyleSettings language="HTML">
     <option name="RIGHT_MARGIN" value="500" />
   </codeStyleSettings>
