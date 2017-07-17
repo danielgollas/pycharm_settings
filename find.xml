@@ -2,43 +2,40 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*urls.py" />
     <recentFileMasks>
-      <mask>urls.*</mask>
-      <mask>*.p</mask>
-      <mask>m*.py</mask>
-      <mask>mana*.py</mask>
-      <mask>manag*.py</mask>
-      <mask>manage*.py</mask>
-      <mask>managem*.py</mask>
-      <mask>manageme*.py</mask>
-      <mask>managemen*.py</mask>
-      <mask>management*.py</mask>
       <mask>management/*.py</mask>
       <mask>*management/*.py</mask>
       <mask>*man/*.py</mask>
       <mask>*man*/*.py</mask>
-      <mask>*</mask>
       <mask>*.js</mask>
       <mask>*.jade</mask>
       <mask>*.jad</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
-      <mask>*.html</mask>
-      <mask>*.htm</mask>
-      <mask>*.ht</mask>
-      <mask>*.h</mask>
-      <mask>*.</mask>
       <mask>*.py</mask>
       <mask>*u.py</mask>
       <mask>*ur.py</mask>
       <mask>*url.py</mask>
       <mask>*urls.py</mask>
+      <mask>*</mask>
+      <mask>*.htnkl</mask>
+      <mask>*.htnk</mask>
+      <mask>*.htn</mask>
+      <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
+      <mask>*.y</mask>
+      <mask>*.</mask>
+      <mask>*.u</mask>
+      <mask>*.ur</mask>
+      <mask>*.url</mask>
+      <mask>*.urls</mask>
+      <mask>*urls</mask>
+      <mask>*urls*</mask>
     </recentFileMasks>
   </component>
 </application>
