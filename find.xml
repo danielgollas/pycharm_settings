@@ -6,21 +6,15 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>management/*.py</mask>
-      <mask>*management/*.py</mask>
-      <mask>*man/*.py</mask>
-      <mask>*man*/*.py</mask>
       <mask>*.js</mask>
       <mask>*.jade</mask>
       <mask>*.jad</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
-      <mask>*.py</mask>
       <mask>*u.py</mask>
       <mask>*ur.py</mask>
       <mask>*url.py</mask>
       <mask>*urls.py</mask>
-      <mask>*</mask>
       <mask>*.htnkl</mask>
       <mask>*.htnk</mask>
       <mask>*.htn</mask>
@@ -29,13 +23,19 @@
       <mask>*.ht</mask>
       <mask>*.h</mask>
       <mask>*.y</mask>
-      <mask>*.</mask>
       <mask>*.u</mask>
       <mask>*.ur</mask>
       <mask>*.url</mask>
       <mask>*.urls</mask>
-      <mask>*urls</mask>
       <mask>*urls*</mask>
+      <mask>*urls</mask>
+      <mask>*url</mask>
+      <mask>*ur</mask>
+      <mask>*u</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
