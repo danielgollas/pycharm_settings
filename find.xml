@@ -2,16 +2,11 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.jade" />
     <recentFileMasks>
-      <mask>*.urls</mask>
-      <mask>*urls*</mask>
-      <mask>*urls</mask>
-      <mask>*url</mask>
       <mask>*ur</mask>
       <mask>*u</mask>
       <mask>.py</mask>
@@ -29,15 +24,19 @@
       <mask>models.py</mask>
       <mask>*/models.py</mask>
       <mask>*models.py</mask>
-      <mask>*.p</mask>
       <mask>*css</mask>
       <mask>*cs</mask>
       <mask>*c</mask>
       <mask>*js</mask>
       <mask>*j</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.py</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.jad</mask>
+      <mask>*.jade</mask>
     </recentFileMasks>
   </component>
 </application>
