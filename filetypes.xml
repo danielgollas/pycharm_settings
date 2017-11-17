@@ -9,6 +9,7 @@
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern="q" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="jinja" type="PLAIN_TEXT" />
       <mapping ext="upstart" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
