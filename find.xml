@@ -7,12 +7,8 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>.py</mask>
-      <mask>u.py</mask>
-      <mask>ur.py</mask>
-      <mask>url.py</mask>
-      <mask>urls.py</mask>
       <mask>mo</mask>
       <mask>mod</mask>
       <mask>mode</mask>
@@ -32,12 +28,17 @@
       <mask>*.py</mask>
       <mask>*.p</mask>
       <mask>*.d</mask>
-      <mask>*.</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.jad</mask>
       <mask>*.jade</mask>
+      <mask>*.jad</mask>
+      <mask>*.ja</mask>
+      <mask>*.sv</mask>
+      <mask>*.scss</mask>
+      <mask>*.scs</mask>
+      <mask>*.sc</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
