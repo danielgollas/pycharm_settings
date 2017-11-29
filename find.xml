@@ -2,9 +2,12 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localWholeWordsOnly" value="true" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.jade" />
     <recentFileMasks>
       <mask>mo</mask>
       <mask>mod</mask>
@@ -26,16 +29,16 @@
       <mask>*.p</mask>
       <mask>*.d</mask>
       <mask>*.sv</mask>
-      <mask>*.jade</mask>
-      <mask>*.jad</mask>
       <mask>*.ja</mask>
       <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.scs</mask>
+      <mask>*.sc</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.jad</mask>
+      <mask>*.jade</mask>
     </recentFileMasks>
   </component>
 </application>
