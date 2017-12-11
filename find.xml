@@ -8,7 +8,6 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>mod</mask>
       <mask>mode</mask>
       <mask>model</mask>
       <mask>models</mask>
@@ -26,18 +25,19 @@
       <mask>*.py</mask>
       <mask>*.d</mask>
       <mask>*.sv</mask>
-      <mask>*.js</mask>
       <mask>*.jade</mask>
       <mask>*.jad</mask>
       <mask>*.ja</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>*.p</mask>
       <mask>*.png</mask>
+      <mask>*.pn</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
