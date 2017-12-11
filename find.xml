@@ -7,9 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
-      <mask>mo</mask>
       <mask>mod</mask>
       <mask>mode</mask>
       <mask>model</mask>
@@ -26,7 +24,6 @@
       <mask>*j</mask>
       <mask>*</mask>
       <mask>*.py</mask>
-      <mask>*.p</mask>
       <mask>*.d</mask>
       <mask>*.sv</mask>
       <mask>*.js</mask>
@@ -39,6 +36,8 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.p</mask>
+      <mask>*.png</mask>
     </recentFileMasks>
   </component>
 </application>
