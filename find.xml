@@ -23,8 +23,6 @@
       <mask>*.py</mask>
       <mask>*.d</mask>
       <mask>*.sv</mask>
-      <mask>*.jade</mask>
-      <mask>*.jad</mask>
       <mask>*.ja</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
@@ -33,9 +31,11 @@
       <mask>*.png</mask>
       <mask>*.pn</mask>
       <mask>*.p</mask>
+      <mask>*.js</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
-      <mask>*.js</mask>
+      <mask>*.jad</mask>
+      <mask>*.jade</mask>
     </recentFileMasks>
   </component>
 </application>
