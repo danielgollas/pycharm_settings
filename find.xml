@@ -5,9 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*.pn</mask>
       <mask>*.py</mask>
       <mask>*.p</mask>
       <mask>*.s</mask>
@@ -31,12 +29,13 @@
       <mask>jad</mask>
       <mask>jade</mask>
       <mask>*jade</mask>
-      <mask>*.</mask>
-      <mask>*.jade</mask>
-      <mask>*.jad</mask>
-      <mask>*.ja</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.k</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.jad</mask>
+      <mask>*.jade</mask>
     </recentFileMasks>
   </component>
 </application>
