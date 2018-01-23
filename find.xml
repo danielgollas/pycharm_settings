@@ -5,12 +5,8 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="*urls.py" />
     <recentFileMasks>
-      <mask>*.p</mask>
-      <mask>**.scss</mask>
-      <mask>*/*.scss</mask>
-      <mask>*/s*.scss</mask>
       <mask>*/sp*.scss</mask>
       <mask>*/spe*.scss</mask>
       <mask>*/spec*.scss</mask>
@@ -37,6 +33,10 @@
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.py</mask>
+      <mask>*u.py</mask>
+      <mask>*ur.py</mask>
+      <mask>*url.py</mask>
+      <mask>*urls.py</mask>
     </recentFileMasks>
   </component>
 </application>
