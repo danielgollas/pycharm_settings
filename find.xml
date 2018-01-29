@@ -23,7 +23,6 @@
       <mask>*jade</mask>
       <mask>*.k</mask>
       <mask>*.ja</mask>
-      <mask>*.js</mask>
       <mask>*.py</mask>
       <mask>*u.py</mask>
       <mask>*ur.py</mask>
@@ -38,6 +37,7 @@
       <mask>*.j</mask>
       <mask>*.jad</mask>
       <mask>*.jade</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
