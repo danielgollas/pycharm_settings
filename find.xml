@@ -21,11 +21,9 @@
       <mask>*.sc</mask>
       <mask>*.s</mask>
       <mask>*.jad</mask>
-      <mask>*.jade</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
-      <mask>*</mask>
       <mask>u</mask>
       <mask>ur</mask>
       <mask>url</mask>
@@ -36,6 +34,8 @@
       <mask>*urls*.py</mask>
       <mask>*.scss</mask>
       <mask>models.py</mask>
+      <mask>*.jade</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
