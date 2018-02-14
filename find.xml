@@ -31,11 +31,11 @@
       <mask>urls*.</mask>
       <mask>urls*.py</mask>
       <mask>serializer*.py</mask>
-      <mask>*urls*.py</mask>
       <mask>*.scss</mask>
       <mask>models.py</mask>
       <mask>*.jade</mask>
       <mask>*</mask>
+      <mask>*urls*.py</mask>
     </recentFileMasks>
   </component>
 </application>
