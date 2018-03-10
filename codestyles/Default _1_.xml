@@ -1,10 +1,13 @@
-<code_scheme name="Default (1)">
+<code_scheme name="Default (1)" version="173">
   <option name="RIGHT_MARGIN" value="99" />
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <JSCodeStyleSettings>
     <option name="IMPORT_SORT_MEMBERS" value="false" />
     <option name="IMPORT_MERGE_MEMBERS" value="FALSE" />
   </JSCodeStyleSettings>
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
   <Python>
     <option name="OPTIMIZE_IMPORTS_SORT_IMPORTS" value="false" />
   </Python>
