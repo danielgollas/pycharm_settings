@@ -6,36 +6,36 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>mode</mask>
-      <mask>model</mask>
-      <mask>models</mask>
-      <mask>models.</mask>
-      <mask>models.p</mask>
-      <mask>models.py</mask>
-      <mask>*/models.py</mask>
-      <mask>*models.py</mask>
-      <mask>*css</mask>
-      <mask>*cs</mask>
-      <mask>*c</mask>
-      <mask>*js</mask>
-      <mask>*j</mask>
-      <mask>*</mask>
-      <mask>*.d</mask>
-      <mask>*.sv</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
-      <mask>*.png</mask>
-      <mask>*.pn</mask>
+      <mask>jad</mask>
+      <mask>jade</mask>
+      <mask>*jade</mask>
+      <mask>*.k</mask>
+      <mask>*.ja</mask>
       <mask>*.py</mask>
-      <mask>*.p</mask>
-      <mask>*.</mask>
+      <mask>*u.py</mask>
+      <mask>*ur.py</mask>
+      <mask>*url.py</mask>
+      <mask>*urls.py</mask>
+      <mask>*.scs</mask>
+      <mask>*.sc</mask>
+      <mask>*.s</mask>
+      <mask>*.jad</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.jad</mask>
+      <mask>*.</mask>
+      <mask>u</mask>
+      <mask>ur</mask>
+      <mask>url</mask>
+      <mask>urls</mask>
+      <mask>urls*.</mask>
+      <mask>urls*.py</mask>
+      <mask>serializer*.py</mask>
+      <mask>*.scss</mask>
+      <mask>models.py</mask>
       <mask>*.jade</mask>
+      <mask>*</mask>
+      <mask>*urls*.py</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
