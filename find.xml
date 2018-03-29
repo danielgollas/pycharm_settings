@@ -5,38 +5,5 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
-    <recentFileMasks>
-      <mask>jad</mask>
-      <mask>jade</mask>
-      <mask>*jade</mask>
-      <mask>*.k</mask>
-      <mask>*.ja</mask>
-      <mask>*u.py</mask>
-      <mask>*ur.py</mask>
-      <mask>*url.py</mask>
-      <mask>*urls.py</mask>
-      <mask>*.scs</mask>
-      <mask>*.sc</mask>
-      <mask>*.s</mask>
-      <mask>*.jad</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>u</mask>
-      <mask>ur</mask>
-      <mask>url</mask>
-      <mask>urls</mask>
-      <mask>urls*.</mask>
-      <mask>urls*.py</mask>
-      <mask>serializer*.py</mask>
-      <mask>*.scss</mask>
-      <mask>models.py</mask>
-      <mask>*.jade</mask>
-      <mask>*</mask>
-      <mask>*urls*.py</mask>
-      <mask>*.html</mask>
-      <mask>*.py</mask>
-    </recentFileMasks>
   </component>
 </application>
