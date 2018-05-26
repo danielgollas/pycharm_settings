@@ -16,7 +16,7 @@
     <mask>*.mxml</mask>
     <mask>admin.py</mask>
     <mask>urls_api.py</mask>
-    <mask>*.py</mask>
     <mask>*.jade</mask>
+    <mask>*.py</mask>
   </component>
 </application>
