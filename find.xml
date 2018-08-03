@@ -17,8 +17,8 @@
     <mask>urls_api.py</mask>
     <mask>*.jade</mask>
     <mask>*.js</mask>
-    <mask>*.py</mask>
     <mask>*.scss</mask>
     <mask>settings/*</mask>
+    <mask>*.py</mask>
   </component>
 </application>
