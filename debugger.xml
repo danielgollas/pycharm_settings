@@ -9,8 +9,8 @@
         <configuration>
           <custom-object-presentation />
           <stepping-filters>
-            <stepping-filter url-pattern="node_modules/*" />
-            <stepping-filter url-pattern="app/bower_components/*" />
+            <stepping-filter url-pattern="mobileweb/app/bower_components/*" />
+            <stepping-filter url-pattern="mobileweb/node_modules/*" />
           </stepping-filters>
         </configuration>
       </debugger>
