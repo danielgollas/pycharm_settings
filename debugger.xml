@@ -10,6 +10,7 @@
           <custom-object-presentation />
           <stepping-filters>
             <stepping-filter url-pattern="node_modules/*" />
+            <stepping-filter url-pattern="app/bower_components/*" />
           </stepping-filters>
         </configuration>
       </debugger>
