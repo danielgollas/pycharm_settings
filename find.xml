@@ -21,7 +21,7 @@
     <mask>*stripe*.py</mask>
     <mask>*urls*.py</mask>
     <mask>*.jsx</mask>
-    <mask>*.py</mask>
     <mask>views.py</mask>
+    <mask>*.py</mask>
   </component>
 </application>
