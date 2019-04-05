@@ -24,5 +24,6 @@
     <mask>*urls*.py</mask>
     <mask>*models.py</mask>
     <mask>*.jsx</mask>
+    <mask>*urls*</mask>
   </component>
 </application>
