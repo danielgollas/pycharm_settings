@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*serializers.py" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -29,5 +30,6 @@
     <mask>*00*.py</mask>
     <mask>*test*</mask>
     <mask>*.py</mask>
+    <mask>*serializers.py</mask>
   </component>
 </application>
