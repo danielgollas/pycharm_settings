@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -17,7 +18,6 @@
     <mask>urls_api.py</mask>
     <mask>*.jade</mask>
     <mask>*.js</mask>
-    <mask>*.scss</mask>
     <mask>settings/*</mask>
     <mask>*view*.py</mask>
     <mask>*stripe*.py</mask>
@@ -34,5 +34,6 @@
     <mask>*.py</mask>
     <mask>*test*.py</mask>
     <mask>*url*.py</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
