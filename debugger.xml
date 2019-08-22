@@ -17,7 +17,6 @@
       </debugger>
       <debugger id="python">
         <configuration>
-          <option name="librariesFilterEnabled" value="true" />
           <option name="watchReturnValues" value="true" />
         </configuration>
       </debugger>
