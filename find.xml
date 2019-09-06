@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="*urls*" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -23,7 +23,6 @@
     <mask>*urls*.py</mask>
     <mask>*models.py</mask>
     <mask>*.jsx</mask>
-    <mask>*urls*</mask>
     <mask>*docker*</mask>
     <mask>*migrations*</mask>
     <mask>*00*.py</mask>
@@ -36,5 +35,6 @@
     <mask>*tem*.py</mask>
     <mask>*url*</mask>
     <mask>*.py</mask>
+    <mask>*urls*</mask>
   </component>
 </application>
