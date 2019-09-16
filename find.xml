@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.xml</mask>
+    <option name="FILE_MASK" value="*pa*" />
     <mask>*.java</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -33,5 +33,6 @@
     <mask>*urls*</mask>
     <mask>*tests*</mask>
     <mask>package.json</mask>
+    <mask>*pa*</mask>
   </component>
 </application>
