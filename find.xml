@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>admin.py</mask>
     <mask>urls_api.py</mask>
@@ -33,5 +32,6 @@
     <mask>*pa*</mask>
     <mask>*</mask>
     <mask>*circle*</mask>
+    <mask>*task*.py</mask>
   </component>
 </application>
