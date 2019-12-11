@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.mxml</mask>
+    <option name="FILE_MASK" value="*.module.scss" />
     <mask>admin.py</mask>
     <mask>urls_api.py</mask>
     <mask>*.jade</mask>
@@ -33,5 +33,6 @@
     <mask>*task*.py</mask>
     <mask>*.py</mask>
     <mask>*.js</mask>
+    <mask>*.module.scss</mask>
   </component>
 </application>
