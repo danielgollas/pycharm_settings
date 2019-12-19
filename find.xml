@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>admin.py</mask>
     <mask>urls_api.py</mask>
     <mask>*.jade</mask>
@@ -30,8 +31,8 @@
     <mask>*</mask>
     <mask>*circle*</mask>
     <mask>*task*.py</mask>
-    <mask>*.py</mask>
     <mask>*.js</mask>
     <mask>*.module.scss</mask>
+    <mask>*.py</mask>
   </component>
 </application>
