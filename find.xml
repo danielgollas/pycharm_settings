@@ -2,7 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.jsx" />
     <mask>admin.py</mask>
     <mask>urls_api.py</mask>
     <mask>*.jade</mask>
@@ -12,7 +15,6 @@
     <mask>views.py</mask>
     <mask>*urls*.py</mask>
     <mask>*models.py</mask>
-    <mask>*.jsx</mask>
     <mask>*docker*</mask>
     <mask>*migrations*</mask>
     <mask>*00*.py</mask>
@@ -33,5 +35,6 @@
     <mask>*.js</mask>
     <mask>*.module.scss</mask>
     <mask>*.py</mask>
+    <mask>*.jsx</mask>
   </component>
 </application>
