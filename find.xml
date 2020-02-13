@@ -5,7 +5,6 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>admin.py</mask>
     <mask>urls_api.py</mask>
     <mask>*.jade</mask>
     <mask>settings/*</mask>
@@ -35,5 +34,6 @@
     <mask>*.module.scss</mask>
     <mask>*.py</mask>
     <mask>*.jsx</mask>
+    <mask>*stories.jsx</mask>
   </component>
 </application>
