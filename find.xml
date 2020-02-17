@@ -20,7 +20,6 @@
     <mask>*.scss</mask>
     <mask>*test*.py</mask>
     <mask>*tem*.py</mask>
-    <mask>*url*</mask>
     <mask>*urls*</mask>
     <mask>*tests*</mask>
     <mask>package.json</mask>
@@ -33,5 +32,6 @@
     <mask>*.py</mask>
     <mask>*.jsx</mask>
     <mask>*stories.jsx</mask>
+    <mask>*url*</mask>
   </component>
 </application>
