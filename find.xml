@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*test*" />
     <mask>urls_api.py</mask>
     <mask>*.jade</mask>
     <mask>settings/*</mask>
@@ -16,7 +17,6 @@
     <mask>*docker*</mask>
     <mask>*migrations*</mask>
     <mask>*00*.py</mask>
-    <mask>*test*</mask>
     <mask>*serializers.py</mask>
     <mask>*url*.py</mask>
     <mask>*.scss</mask>
@@ -35,5 +35,6 @@
     <mask>*.jsx</mask>
     <mask>*stories.jsx</mask>
     <mask>*url*</mask>
+    <mask>*test*</mask>
   </component>
 </application>
