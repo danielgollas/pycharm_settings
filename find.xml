@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.jade</mask>
+    <option name="FILE_MASK" value="*.yml" />
     <mask>settings/*</mask>
     <mask>*view*.py</mask>
     <mask>*stripe*.py</mask>
@@ -33,5 +33,6 @@
     <mask>*url*</mask>
     <mask>*test*</mask>
     <mask>*.pug</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
