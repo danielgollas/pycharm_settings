@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>settings/*</mask>
     <mask>*view*.py</mask>
     <mask>*stripe*.py</mask>
@@ -26,12 +27,12 @@
     <mask>*task*.py</mask>
     <mask>*.js</mask>
     <mask>*.module.scss</mask>
-    <mask>*.py</mask>
     <mask>*.jsx</mask>
     <mask>*stories.jsx</mask>
     <mask>*url*</mask>
     <mask>*test*</mask>
     <mask>*.pug</mask>
     <mask>*.yml</mask>
+    <mask>*.py</mask>
   </component>
 </application>
