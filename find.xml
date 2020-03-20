@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>settings/*</mask>
     <mask>*view*.py</mask>
     <mask>*stripe*.py</mask>
     <mask>views.py</mask>
@@ -33,5 +32,6 @@
     <mask>*.pug</mask>
     <mask>*.yml</mask>
     <mask>*.py</mask>
+    <mask>*/migrations/*.py</mask>
   </component>
 </application>
