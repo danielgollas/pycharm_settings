@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*stripe*.py</mask>
+    <option name="FILE_MASK" value="*svg" />
     <mask>views.py</mask>
     <mask>*urls*.py</mask>
     <mask>*models.py</mask>
@@ -35,5 +35,6 @@
     <mask>*/migrations/*.py</mask>
     <mask>*.py</mask>
     <mask>*jsx</mask>
+    <mask>*svg</mask>
   </component>
 </application>
