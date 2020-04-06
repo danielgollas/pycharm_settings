@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.jsx" />
     <mask>*urls*.py</mask>
     <mask>*models.py</mask>
     <mask>*docker*</mask>
@@ -22,7 +23,6 @@
     <mask>*task*.py</mask>
     <mask>*.js</mask>
     <mask>*.module.scss</mask>
-    <mask>*.jsx</mask>
     <mask>*stories.jsx</mask>
     <mask>*url*</mask>
     <mask>*test*</mask>
@@ -33,5 +33,6 @@
     <mask>*svg</mask>
     <mask>*jsx</mask>
     <mask>*pug</mask>
+    <mask>*.jsx</mask>
   </component>
 </application>
