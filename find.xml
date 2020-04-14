@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*urls*.py</mask>
+    <option name="FILE_MASK" value="*.*" />
     <mask>*models.py</mask>
     <mask>*docker*</mask>
     <mask>*migrations*</mask>
@@ -33,5 +33,6 @@
     <mask>*.jsx</mask>
     <mask>*</mask>
     <mask>*.py</mask>
+    <mask>*.*</mask>
   </component>
 </application>
