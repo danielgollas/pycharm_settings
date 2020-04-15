@@ -3,8 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*urls.*" />
-    <mask>*docker*</mask>
+    <option name="FILE_MASK" value="*urls*.*" />
     <mask>*migrations*</mask>
     <mask>*00*.py</mask>
     <mask>*serializers.py</mask>
@@ -34,5 +33,6 @@
     <mask>*.py</mask>
     <mask>*.*</mask>
     <mask>*urls.*</mask>
+    <mask>*urls*.*</mask>
   </component>
 </application>
