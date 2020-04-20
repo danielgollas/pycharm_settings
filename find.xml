@@ -16,7 +16,6 @@
     <mask>*pa*</mask>
     <mask>*circle*</mask>
     <mask>*task*.py</mask>
-    <mask>*.js</mask>
     <mask>*.module.scss</mask>
     <mask>*stories.jsx</mask>
     <mask>*url*</mask>
@@ -33,5 +32,6 @@
     <mask>*.*</mask>
     <mask>*urls.*</mask>
     <mask>*urls*.*</mask>
+    <mask>*.js</mask>
   </component>
 </application>
