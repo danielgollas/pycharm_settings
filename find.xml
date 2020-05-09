@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*test*" />
     <mask>*serializers.py</mask>
     <mask>*url*.py</mask>
     <mask>*.scss</mask>
@@ -18,7 +18,6 @@
     <mask>*.module.scss</mask>
     <mask>*stories.jsx</mask>
     <mask>*url*</mask>
-    <mask>*test*</mask>
     <mask>*.pug</mask>
     <mask>*.yml</mask>
     <mask>*/migrations/*.py</mask>
@@ -34,5 +33,6 @@
     <mask>**</mask>
     <mask>*.py</mask>
     <mask>*</mask>
+    <mask>*test*</mask>
   </component>
 </application>
