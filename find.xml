@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*serializers.py</mask>
+    <option name="FILE_MASK" value="*scratch*" />
     <mask>*url*.py</mask>
     <mask>*.scss</mask>
     <mask>*test*.py</mask>
@@ -33,5 +33,6 @@
     <mask>*.py</mask>
     <mask>*</mask>
     <mask>*test*</mask>
+    <mask>*scratch*</mask>
   </component>
 </application>
