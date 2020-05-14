@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*models*" />
+    <option name="FILE_MASK" value="*test*" />
     <mask>*tem*.py</mask>
     <mask>*urls*</mask>
     <mask>*tests*</mask>
@@ -27,12 +27,12 @@
     <mask>*.jsx</mask>
     <mask>**</mask>
     <mask>*.py</mask>
-    <mask>*test*</mask>
     <mask>*scratch*</mask>
     <mask>*.js</mask>
     <mask>*service.js</mask>
     <mask>*</mask>
     <mask>*serializers*</mask>
     <mask>*models*</mask>
+    <mask>*test*</mask>
   </component>
 </application>
