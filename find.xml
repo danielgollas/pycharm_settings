@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*urls*</mask>
+    <option name="FILE_MASK" value="*mixin*" />
     <mask>*tests*</mask>
     <mask>package.json</mask>
     <mask>*pa*</mask>
@@ -35,5 +35,6 @@
     <mask>*models*</mask>
     <mask>*test*</mask>
     <mask>*serializ*</mask>
+    <mask>*mixin*</mask>
   </component>
 </application>
