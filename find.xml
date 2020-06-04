@@ -28,10 +28,10 @@
     <mask>*service.js</mask>
     <mask>*serializers*</mask>
     <mask>*models*</mask>
-    <mask>*test*</mask>
     <mask>*serializ*</mask>
     <mask>*mixin*</mask>
     <mask>*</mask>
     <mask>*urls*</mask>
+    <mask>*test*</mask>
   </component>
 </application>
