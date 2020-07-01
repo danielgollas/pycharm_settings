@@ -5,12 +5,12 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*url*" />
     <mask>*pa*</mask>
     <mask>*circle*</mask>
     <mask>*task*.py</mask>
     <mask>*.module.scss</mask>
     <mask>*stories.jsx</mask>
-    <mask>*url*</mask>
     <mask>*.pug</mask>
     <mask>*.yml</mask>
     <mask>*/migrations/*.py</mask>
@@ -35,5 +35,6 @@
     <mask>*urls*</mask>
     <mask>*scss*</mask>
     <mask>*test*</mask>
+    <mask>*url*</mask>
   </component>
 </application>
