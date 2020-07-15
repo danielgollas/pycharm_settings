@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*service.js" />
     <mask>*pa*</mask>
     <mask>*circle*</mask>
     <mask>*task*.py</mask>
@@ -25,7 +26,6 @@
     <mask>*.py</mask>
     <mask>*scratch*</mask>
     <mask>*.js</mask>
-    <mask>*service.js</mask>
     <mask>*serializers*</mask>
     <mask>*models*</mask>
     <mask>*mixin*</mask>
@@ -35,5 +35,6 @@
     <mask>*test*</mask>
     <mask>*url*</mask>
     <mask>*serializ*</mask>
+    <mask>*service.js</mask>
   </component>
 </application>
