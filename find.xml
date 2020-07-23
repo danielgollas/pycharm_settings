@@ -1,10 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*url*" />
     <mask>*pa*</mask>
     <mask>*circle*</mask>
     <mask>*task*.py</mask>
@@ -32,8 +33,8 @@
     <mask>*urls*</mask>
     <mask>*scss*</mask>
     <mask>*test*</mask>
-    <mask>*url*</mask>
     <mask>*serializ*</mask>
     <mask>*service.js</mask>
+    <mask>*url*</mask>
   </component>
 </application>
