@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../styleseat/provider/models.py'" />
-    <option name="defaultScopeName" value="File '.../styleseat/provider/models.py'" />
-    <option name="SEARCH_SCOPE" value="File '.../styleseat/provider/models.py'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*circle*</mask>
     <mask>*task*.py</mask>
     <mask>*.module.scss</mask>
