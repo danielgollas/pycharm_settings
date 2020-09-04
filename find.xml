@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*task*.py</mask>
     <mask>*.module.scss</mask>
     <mask>*stories.jsx</mask>
@@ -32,7 +32,7 @@
     <mask>*.jsx</mask>
     <mask>routes.*</mask>
     <mask>*Container*</mask>
-    <mask>*.py</mask>
     <mask>*.*</mask>
+    <mask>*.py</mask>
   </component>
 </application>
