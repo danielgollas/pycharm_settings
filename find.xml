@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*task*.py</mask>
     <mask>*.module.scss</mask>
     <mask>*stories.jsx</mask>
@@ -18,7 +19,6 @@
     <mask>*urls.*</mask>
     <mask>*urls*.*</mask>
     <mask>*.js*</mask>
-    <mask>*.py</mask>
     <mask>*scratch*</mask>
     <mask>*.js</mask>
     <mask>*serializers*</mask>
@@ -35,5 +35,6 @@
     <mask>*.jsx</mask>
     <mask>routes.*</mask>
     <mask>*Container*</mask>
+    <mask>*.py</mask>
   </component>
 </application>
