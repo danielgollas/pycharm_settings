@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="FLY-2276 CTA testing in search boost" />
-    <option name="defaultScopeName" value="FLY-2276 CTA testing in search boost" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="FLY-2276 CTA testing in search boost" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*task*.py</mask>
     <mask>*.module.scss</mask>
     <mask>*stories.jsx</mask>
