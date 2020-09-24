@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*task*.py</mask>
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.module.scss</mask>
     <mask>*stories.jsx</mask>
     <mask>*.pug</mask>
@@ -33,5 +33,6 @@
     <mask>*Container*</mask>
     <mask>*.*</mask>
     <mask>*.py</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
