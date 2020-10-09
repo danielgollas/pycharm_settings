@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*.jsx" />
     <mask>*.module.scss</mask>
     <mask>*stories.jsx</mask>
     <mask>*.pug</mask>
@@ -28,11 +30,11 @@
     <mask>*test*</mask>
     <mask>*url*</mask>
     <mask>**</mask>
-    <mask>*.jsx</mask>
     <mask>routes.*</mask>
     <mask>*Container*</mask>
     <mask>*.py</mask>
     <mask>*.ts</mask>
     <mask>*.*</mask>
+    <mask>*.jsx</mask>
   </component>
 </application>
