@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*test*" />
     <mask>*.module.scss</mask>
     <mask>*stories.jsx</mask>
     <mask>*.pug</mask>
@@ -24,7 +25,6 @@
     <mask>*scss*</mask>
     <mask>*serializ*</mask>
     <mask>*service.js</mask>
-    <mask>*test*</mask>
     <mask>*url*</mask>
     <mask>**</mask>
     <mask>routes.*</mask>
@@ -33,5 +33,6 @@
     <mask>*.ts</mask>
     <mask>*.*</mask>
     <mask>*.jsx</mask>
+    <mask>*test*</mask>
   </component>
 </application>
