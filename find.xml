@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*url*" />
     <mask>*stories.jsx</mask>
     <mask>*.pug</mask>
     <mask>*.yml</mask>
@@ -32,8 +33,8 @@
     <mask>*.*</mask>
     <mask>*.jsx</mask>
     <mask>*jsx*</mask>
-    <mask>*url*</mask>
     <mask>*test*</mask>
     <mask>*.js</mask>
+    <mask>*url*</mask>
   </component>
 </application>
