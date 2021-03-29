@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*stories.jsx</mask>
+    <option name="FILE_MASK" value="*serializer*" />
     <mask>*.pug</mask>
     <mask>*.yml</mask>
     <mask>*/migrations/*.py</mask>
@@ -33,5 +33,6 @@
     <mask>*.js</mask>
     <mask>*test*</mask>
     <mask>*url*</mask>
+    <mask>*serializer*</mask>
   </component>
 </application>
