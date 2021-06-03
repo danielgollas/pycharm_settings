@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="[FLY-2930] Last Minute Client Booked and Outside Availability Pro booked Smart Price appointments u..." />
     <option name="defaultScopeName" value="[FLY-2930] Last Minute Client Booked and Outside Availability Pro booked Smart Price appointments u..." />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="[FLY-2930] Last Minute Client Booked and Outside Availability Pro booked Smart Price appointments u..." />
     <mask>*.pug</mask>
     <mask>*.yml</mask>
