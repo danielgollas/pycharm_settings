@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="[FLY-2930] Last Minute Client Booked and Outside Availability Pro booked Smart Price appointments u..." />
+    <option name="defaultScopeName" value="[FLY-2930] Last Minute Client Booked and Outside Availability Pro booked Smart Price appointments u..." />
+    <option name="SEARCH_SCOPE" value="[FLY-2930] Last Minute Client Booked and Outside Availability Pro booked Smart Price appointments u..." />
     <mask>*.pug</mask>
     <mask>*.yml</mask>
     <mask>*/migrations/*.py</mask>
