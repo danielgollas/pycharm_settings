@@ -8,6 +8,7 @@
       <mapping ext="woff" type="Native" />
       <mapping pattern="q" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="apt-get" type="PLAIN_TEXT" />
       <mapping pattern="sample_pro_ids_to_transition.txt" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
