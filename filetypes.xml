@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc" />
     <extensionMap>
+      <mapping pattern="passfile" type="AUTO_DETECTED" />
+      <mapping pattern="ssh-add-pass" type="AUTO_DETECTED" />
       <mapping pattern="CheckListPoint.jsx" type="JSX Harmony" />
       <mapping ext="woff2" type="Native" />
       <mapping ext="otf" type="Native" />
