@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*serializer*" />
     <mask>*.pug</mask>
     <mask>*/migrations/*.py</mask>
     <mask>*svg</mask>
@@ -30,8 +31,8 @@
     <mask>*jsx*</mask>
     <mask>*.js</mask>
     <mask>*test*</mask>
-    <mask>*serializer*</mask>
     <mask>*url*</mask>
     <mask>*.yml</mask>
+    <mask>*serializer*</mask>
   </component>
 </application>
