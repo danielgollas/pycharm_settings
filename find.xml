@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="FLY-2983 Update Zendesk KB Links" />
+    <option name="defaultScopeName" value="FLY-2983 Update Zendesk KB Links" />
+    <option name="SEARCH_SCOPE" value="FLY-2983 Update Zendesk KB Links" />
     <mask>*.pug</mask>
     <mask>*/migrations/*.py</mask>
     <mask>*svg</mask>
