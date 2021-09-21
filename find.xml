@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.pug</mask>
     <mask>*/migrations/*.py</mask>
     <mask>*svg</mask>
@@ -23,7 +24,6 @@
     <mask>**</mask>
     <mask>routes.*</mask>
     <mask>*Container*</mask>
-    <mask>*.py</mask>
     <mask>*.ts</mask>
     <mask>*.*</mask>
     <mask>*.jsx</mask>
@@ -33,5 +33,6 @@
     <mask>*url*</mask>
     <mask>*.yml</mask>
     <mask>*serializer*</mask>
+    <mask>*.py</mask>
   </component>
 </application>
