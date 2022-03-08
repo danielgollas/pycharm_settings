@@ -5,7 +5,6 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Recently Changed Files" />
-    <option name="FILE_MASK" value="*.py" />
     <mask>*.pug</mask>
     <mask>*/migrations/*.py</mask>
     <mask>*svg</mask>
