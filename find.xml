@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <mask>*/migrations/*.py</mask>
+    <option name="FILE_MASK" value="*test*.py" />
     <mask>*svg</mask>
     <mask>*jsx</mask>
     <mask>*pug</mask>
@@ -35,5 +35,6 @@
     <mask>*serializer*</mask>
     <mask>*.py</mask>
     <mask>*settings*.py</mask>
+    <mask>*test*.py</mask>
   </component>
 </application>
