@@ -5,8 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*test*.py" />
-    <mask>*svg</mask>
+    <option name="FILE_MASK" value="*url*.py" />
     <mask>*jsx</mask>
     <mask>*pug</mask>
     <mask>*urls.*</mask>
@@ -36,5 +35,6 @@
     <mask>*.py</mask>
     <mask>*settings*.py</mask>
     <mask>*test*.py</mask>
+    <mask>*url*.py</mask>
   </component>
 </application>
