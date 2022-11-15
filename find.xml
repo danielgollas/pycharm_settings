@@ -1,41 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
-    <mask>*pug</mask>
-    <mask>*urls.*</mask>
-    <mask>*urls*.*</mask>
-    <mask>*.js*</mask>
-    <mask>*scratch*</mask>
-    <mask>*serializers*</mask>
-    <mask>*models*</mask>
-    <mask>*mixin*</mask>
-    <mask>*</mask>
-    <mask>*urls*</mask>
-    <mask>*scss*</mask>
-    <mask>*serializ*</mask>
-    <mask>*service.js</mask>
-    <mask>**</mask>
-    <mask>routes.*</mask>
-    <mask>*Container*</mask>
-    <mask>*.ts</mask>
-    <mask>*.*</mask>
-    <mask>*.jsx</mask>
-    <mask>*jsx*</mask>
-    <mask>*.js</mask>
-    <mask>*test*</mask>
-    <mask>*url*</mask>
-    <mask>*.yml</mask>
-    <mask>*serializer*</mask>
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.template</mask>
+    <mask>*.pyw</mask>
     <mask>*.py</mask>
-    <mask>*settings*.py</mask>
-    <mask>*test*.py</mask>
-    <mask>*url*.py</mask>
-    <mask>*admin*.py</mask>
   </component>
 </application>
