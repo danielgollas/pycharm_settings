@@ -5,8 +5,8 @@
       <mapping pattern="passfile" type="AUTO_DETECTED" />
       <mapping pattern="ssh-add-pass" type="AUTO_DETECTED" />
       <mapping pattern="CheckListPoint.jsx" type="JSX Harmony" />
-      <mapping ext="woff2" type="Native" />
       <mapping ext="otf" type="Native" />
+      <mapping ext="woff2" type="Native" />
       <mapping ext="woff" type="Native" />
       <mapping pattern="sample_pro_ids_to_transition.txt" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
@@ -17,7 +17,9 @@
       <mapping ext="upstart" type="PLAIN_TEXT" />
       <mapping ext="jinja" type="PLAIN_TEXT" />
       <mapping ext="template" type="Python" />
+      <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="jinja" approved="true" type="Jinja2" />
     </extensionMap>
   </component>
 </application>
