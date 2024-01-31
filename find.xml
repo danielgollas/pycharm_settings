@@ -16,5 +16,6 @@
     <mask>*admin*</mask>
     <mask>*url*.py</mask>
     <mask>*.tf</mask>
+    <mask>Dockerfile</mask>
   </component>
 </application>
