@@ -17,5 +17,6 @@
     <mask>*.tf</mask>
     <mask>Dockerfile</mask>
     <mask>*.py</mask>
+    <mask>urls.py</mask>
   </component>
 </application>
