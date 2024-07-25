@@ -1,8 +1,10 @@
 <application>
   <component name="CodeInsightSettings">
+    <option name="AUTO_POPUP_COMPLETION_LOOKUP" value="false" />
     <option name="REFORMAT_ON_PASTE" value="1" />
     <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
     <option name="HIGHLIGHT_SCOPE" value="true" />
+    <option name="TAB_EXITS_BRACKETS_AND_QUOTES" value="false" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
